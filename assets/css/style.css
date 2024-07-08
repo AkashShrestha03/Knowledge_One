@@ -2568,7 +2568,7 @@ label {
     line-height: 1.6em;
   }
   .cs_nav .cs_nav_list ul {
-    padding-left: 15px;
+    padding-left: 10px;
     display: none;
     text-transform: capitalize;
   }
